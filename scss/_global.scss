@@ -1,0 +1,27 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Kumbh Sans", sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  background-color: $darkCyan;
+  color: $darkGray;
+}
+
+h1 {
+  color: $veryDarkDesaturatedBlue;
+  font-size: 1.8rem;
+}
+
+h2 {
+  color: $veryDarkDesaturatedBlue;
+  font-size: 1.6rem;
+}
